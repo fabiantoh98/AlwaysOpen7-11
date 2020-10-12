@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://alwaysopen7-11.netlify.app/"
 languageCode = "en-us"
 title = "Always Open 7-11"
 theme = "OneDly-Theme"
