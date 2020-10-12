@@ -34,3 +34,12 @@ body {
 .header-container h4 {
   color: {{ .Site.Params.header_text_color }};
 }
+
+img[alt=Architecture] { width: 100%; }
+img[alt=Storyboard] { width: 100%; }
+img[alt=ScopeOfWork] { width: 100%; }
+img[alt=ProjectTimeline] { width: 100%; }
+img[alt=logo] { width: 25%; }
+
+
+
