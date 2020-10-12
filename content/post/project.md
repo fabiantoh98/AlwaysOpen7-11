@@ -1,6 +1,6 @@
 ---
-author: Christian Decker
-date: "2019-08-07"
+author: AlwaysOpen7-11
+date: "2020-10-10"
 description: Goals, objectives and approach
 sec: 2
 title: 
@@ -24,20 +24,7 @@ This project focuses on the spatial distribution of convenience store in Kaifeng
 
 https://www.researchgate.net/publication/340659202_Spatial_Distribution_Analysis_of_Convenience_Stores_in_Kaifeng_City_Based_on_POI_Data 
 
-# Methodology 
 
-
-* Create a R Shiny application that allow us to view the location of 7-11 and its relations with other amenities.  
-
-* To perform spatial point pattern analysis on 7-11 in Taiwan 
-
-* Choropleth Map to visualize the population in Taiwan 
-
-* Kernel Density Estimation of 7-11 and other amenities in Taiwan 
-
-* Auto-correlation with 7-11 stores and various amenities 
-
-* Second Order Analysis such G-function and L-function 
 
 
 

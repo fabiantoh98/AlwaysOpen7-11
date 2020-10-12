@@ -1,10 +1,11 @@
 ---
-author: Christian Decker
-date: "2019-08-07"
-description: A brief guide to setup KaTeX
-markup: mmark
-math: true
+author: AlwaysOpen7-11
+date: "2020-10-10"
+description: 
 sec: 5
 title:
 ---
 
+# Application System Architecture 
+
+![Architecture](Architecture.png)

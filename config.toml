@@ -2,7 +2,7 @@ baseurl = "https://alwaysopen7-11.netlify.app/"
 languageCode = "en-us"
 title = "Always Open 7-11"
 theme = "OneDly-Theme"
-<img src="/AlwaysOpen7-11/config_files/logo.png" alt="7-11" width="80%"/>
+
 #
 # Personalization params
 #
@@ -48,7 +48,7 @@ theme = "OneDly-Theme"
 #
 [social]
     # Coding Communities
-    github           = "cdeck3r/OneDly-Theme"
+    github           = ""
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
@@ -73,7 +73,7 @@ theme = "OneDly-Theme"
     googleplus       = ""
     reddit           = ""
     quora            = ""
-    youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
+    youtube          = ""
     vimeo            = ""
     whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
@@ -81,7 +81,7 @@ theme = "OneDly-Theme"
     qq             = "" # User ID Number
     instagram        = ""
     tumblr           = ""
-    twitter          = "cdeck3r"
+    twitter          = ""
     skype            = ""
     snapchat         = ""
     pinterest        = ""
@@ -91,7 +91,7 @@ theme = "OneDly-Theme"
     orcid            = ""
     researchgate     = ""
     # Email
-    email = "info@cdeck3r.com"
+    email = ""
 
 #
 # Adjust privacy settings

@@ -1,10 +1,11 @@
 ---
-author: Christian Decker
-date: "2019-08-07"
+author: AlwaysOpen7-11
+date: "2020-10-10"
 description: Initial project description
 sec: 1
 title: 7-11 in Taiwan 
 ---
+
 
 # Project Motivation
 
