@@ -3,38 +3,66 @@ author: Christian Decker
 date: "2019-08-07"
 description: Initial project description
 sec: 1
-title: About
+title: 7-11 in Taiwan 
 ---
 
-One-Day-Only or OneDly projects help to acquire a new skill or to complete a task within a short timeframe. It limits the available time and combines it with defined objectives. This situation forces you to focus on the relevant elements in order to successfully complete a task or project. Please note, the idea is not to pack as much work as you can do within a workday. At the end you will find answers for the following questions 
+# Project Motivation
 
-* What were the relevant elements for success?
-* How good are you in estimating your work effort?
-* What were road blocks or even showstoppers you haven't forseen even in a short-term project horizon?
-* What are typical reoccuring interuptions and distractions during your work?
-* What is your personal pace when working intensly on a task or project?
+Convenience stores are a huge deal in Taiwan. Especially the Japanese-American chain, 7-Eleven is ubiquitous in Taiwan with 5,000 over stores distributed around the country. It provides various services that help people with their daily activities such as bill payment, cash withdrawal, top-up, delivery and pickup parcels. With that, the 7-11 in Taiwan plays an important part in peoples’ daily lives. It has also been integrated in peoples’ modern part of life by delivering brilliance service with every visit unlike the 7-11 in Singapore where people visit only when there is no other alternative. Therefore, this project aims to leverage on geospatial methods to discover the characteristic of 7-Eleven locations in Taiwan.  
+ 
+
+# Project Objectives 
+This project aims to: 
+
+* Discover 7-11 cluster patterns in Taiwan 
+
+* Discover the average distance between 7-11 stores and their location distribution patterns 
+
+* Identify the correlation between 7-11 and amenities such as MRT, bus interchange, school etc. 
+
+* Identify the correlation between 7-11 and regional population density. 
 
 
-This will certainly generate some personal insights and improve your activities in future projects. 
+# Literature Review 
 
-### Structuring OneDly Projects
+In literature review, we have done our topic on the following area to enhance our preliminary knowledge: 
 
-A single page stores an entire OneDly project documentation. We recommend the following  concise structure.
+## Plotting a colored Taiwan Map based on population: 
 
-* About: Some background / intro information motivating the project
-* Project Definition
-    * Goal
-    * Approach and Objectives
-* Sections
-* ...
-* Summary and Conclusions
-* Next steps
+This is a simple project where the author analyzes Taiwan population distribution on a choropleth map. There are many insights we gain from this project such as how we should process the data. For example, not all files have an English version, this project show how we can join the data even if they are in different languages. 
 
-### Example
+https://rpubs.com/OzuShi/348822 
 
-Raspi mini computers are embedded computers running linux and provide a desktop alike programming experiences. They are available at low cost. Being able to develop software for these systems is a valuable contribution to one's CV.
+ 
 
-This OneDly project experiements with the Raspi setup, development and deployment of some example software.
+## Spatial Distribution analysis of convenience store in Kaifeng (China): 
+
+This project focuses on the spatial distribution of convenience store in Kaifeng city and how it will affect the retail industry. Their research analyzes the spatial layout characteristics of convenience store such as traffic and compare the spatial distribution of convenience store with population clusters. They discovered that there is sufficient service coverage, unbalanced spatial distribution based on population cluster and most convenience store are distributed in cheaper land price area. Hence, they have come out with several recommendation for government to provide a uniform service range of comprehensive coverage. 
+
+https://www.researchgate.net/publication/340659202_Spatial_Distribution_Analysis_of_Convenience_Stores_in_Kaifeng_City_Based_on_POI_Data 
+
+# Methodology 
+
+
+* Create a R Shiny application that allow us to view the location of 7-11 and its relations with other amenities.  
+
+* To perform spatial point pattern analysis on 7-11 in Taiwan 
+
+* Choropleth Map to visualize the population in Taiwan 
+
+* Kernel Density Estimation of 7-11 and other amenities in Taiwan 
+
+* Auto-correlation with 7-11 stores and various amenities 
+
+* Second Order Analysis such G-function and L-function 
+
+# Challenges and Mitigation 
+
+As 7-11 store location is not readily available in geospatial data format in their website. It is required to scrape data from 7-11 website and perform geocoding to get the latitude and longitude for the 7-Eleven location. 
+
+Taiwan uses a different coordinate system as Singapore, and they have multiple projection system throughout the country. However, we will be only be using epsg:3828 where the bounding box cover the mainland of Taiwan without the islands surrounding it. Refers to (https://epsg.io/3828) to see the bounding box. 
+
+
 
 
 
