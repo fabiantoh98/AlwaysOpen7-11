@@ -3,9 +3,8 @@ author: AlwaysOpen7-11
 date: "2020-10-10"
 description: Initial project description
 sec: 1
-title:
+title: About
 ---
-
 
 # Project Motivation
 
@@ -22,12 +21,3 @@ This project aims to:
 * Identify the correlation between 7-11 and amenities such as MRT, bus interchange, school etc. 
 
 * Identify the correlation between 7-11 and regional population density. 
-
-
-
-
-
-
-
-
-

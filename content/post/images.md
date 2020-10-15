@@ -8,4 +8,4 @@ title:
 
 # Storyboard
 
-![Storyboard](Storyboard.png)
+![Storyboard](post/images_files/Storyboard.png)

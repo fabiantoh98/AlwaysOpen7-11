@@ -23,12 +23,3 @@ https://rpubs.com/OzuShi/348822
 This project focuses on the spatial distribution of convenience store in Kaifeng city and how it will affect the retail industry. Their research analyzes the spatial layout characteristics of convenience store such as traffic and compare the spatial distribution of convenience store with population clusters. They discovered that there is sufficient service coverage, unbalanced spatial distribution based on population cluster and most convenience store are distributed in cheaper land price area. Hence, they have come out with several recommendation for government to provide a uniform service range of comprehensive coverage. 
 
 https://www.researchgate.net/publication/340659202_Spatial_Distribution_Analysis_of_Convenience_Stores_in_Kaifeng_City_Based_on_POI_Data 
-
-
-
-
-
-
-
-
-

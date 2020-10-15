@@ -2,19 +2,16 @@ baseurl = "https://alwaysopen7-11.netlify.app/"
 languageCode = "en-us"
 title = "Always Open 7-11"
 theme = "OneDly-Theme"
-picture = "/static/logo.png"
+
 #
 # Personalization params
 #
-
-
 [params]
     # project specific params
     description = "Spatial Analysis on 7-11 Convenience Store in Taiwan"
-    author_url = ""
-    author_name = ""
-    project_url = ""
-    picture = "/static/logo.png"
+    author_url = "https://alwaysopen7-11.netlify.app/"
+    author_name = "Always Open 7-11"
+    project_url = "https://github.com/fabiantoh98/AlwaysOpen7-11"
 
     # optionally specify where the content is
     # mainSections = ["post"] 
@@ -39,7 +36,7 @@ picture = "/static/logo.png"
     second_color="white"
     second_text_color="#333"
 
-    header_color="#007A53"
+    header_color="white"
     header_text_color="rgb(51, 51, 51)"
 
     header_link_color="#777"

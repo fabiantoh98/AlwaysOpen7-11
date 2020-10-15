@@ -8,11 +8,11 @@ title:
 
 # Scope of Work
 
-![ScopeOfWork](ScopeOfWork.png)
+![ScopeOfWork](/post/images_files/ScopeOfWork.png)
 
 # Project Timeline
 
-![ProjectTimeline](ProjectTimeline.png)
+![ProjectTimeline](/post/images_files/ProjectTimeline.png)
 
 # Data Sources
 
@@ -21,3 +21,5 @@ title:
 7-11 convenience stores       | https://www.319papago.idv.tw/lifeinfo/7-11/7-11-00.html 
 Population Density            | https://gis.ris.gov.tw/dashboard.html?key=B07 
 Other Taiwan open source data | https://data.gov.tw/ 
+
+

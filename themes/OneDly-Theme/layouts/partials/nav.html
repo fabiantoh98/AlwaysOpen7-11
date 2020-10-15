@@ -9,8 +9,45 @@
                 <span class="icon-bar"></span>
 				<span class="icon-bar"></span>
             </button>
-            {{ .Site.Title }}
+            <a class="navbar-brand page-scroll" style="padding-left: 0px;margin-left: 0px;" href="#intro">
+            {{ .Site.Title }}</a>
         </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+				{{ if (fileExists "application/application.md") -}}
+						<li>
+							<a href="{{ "application/application" | absURL }}" >Application</a>
+						</li>
+						{{- end }}
+				{{ if (fileExists "poster/poster.md") -}}
+						<li>
+							<a href="{{ "poster/poster" | absURL }}" >Poster</a>
+						</li>
+						{{- end }}
+				{{ if (fileExists "research_paper/research_paper.md") -}}
+						<li>
+							<a href="{{ "research_paper/research_paper" | absURL }}" >Research Paper</a>
+						</li>
+						{{- end }}
+				{{ if isset .Site.Params "project_url" }}
+				<li>
+				  <a class="page-scroll" href="{{ .Site.Params.project_url }}">
+                    Github
+                  </a>
+                </li>
+				{{ end }} 
+				{{ if isset .Site.Params "author_url" }}
+				<li>
+					<a class="page-scroll" href="{{ .Site.Params.author_url }}">
+                    Proposal
+					</a>
+                </li>
+				{{ end }}
+				
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>

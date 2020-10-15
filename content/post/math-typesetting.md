@@ -1,11 +1,11 @@
 ---
 author: AlwaysOpen7-11
 date: "2020-10-10"
-description: 
+description: Initial project description
 sec: 5
-title:
+title: 
 ---
 
-# Application System Architecture 
+# Application System Architecture
 
-![Architecture](Architecture.png)
+![Architecture](post/images_files/Architecture.png)
