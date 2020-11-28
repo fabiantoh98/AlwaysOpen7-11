@@ -7,5 +7,12 @@ title: Poster
 ---
 
 # We are currently working on our poster!
+![Poster](post/images_files/Poster.JPG)
 
-![Work In Progress](post/images_files/wip.gif)
+
+
+
+
+
+
+

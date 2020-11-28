@@ -9,4 +9,4 @@ title: About Us
 
 # Coming Soon!
 
-![Work In Progress](post/images_files/wip.gif)
+![About Us](post/images_files/About Us.JPG)

@@ -8,4 +8,4 @@ title: Application
 
 # We are currently working on our R Shiny application!
 
-![Work In Progress](post/images_files/wip.gif)
+![Application](post/images_files/Application.JPG)

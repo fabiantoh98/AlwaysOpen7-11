@@ -8,4 +8,4 @@ title: Research Paper
 
 # We are currently working on our research paper!
 
-![Work In Progress](post/images_files/wip.gif)
+![ResearchPaper](post/images_files/Research Paper.JPG)
