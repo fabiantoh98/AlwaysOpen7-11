@@ -5,4 +5,5 @@ description: Initial project description
 sec: 1
 title: Application
 ---
-![Application](post/images_files/Application.png)
+![Application](post/images_files/Application.png){width=300px}
+
