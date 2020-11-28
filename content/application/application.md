@@ -5,4 +5,4 @@ description: Initial project description
 sec: 1
 title: Application
 ---
-![Application](post/images_files/Application.JPG)
+![Application](post/images_files/Application.png)

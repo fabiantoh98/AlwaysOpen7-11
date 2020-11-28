@@ -5,4 +5,4 @@ description: Initial project description
 sec: 1
 title: Research Paper
 ---
-![ResearchPaper](post/images_files/ResearchPaper.JPG)
+![ResearchPaper](post/images_files/ResearchPaper.png)
