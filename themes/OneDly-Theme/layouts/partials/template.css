@@ -41,8 +41,8 @@ img[alt=ScopeOfWork] { width: 100%; }
 img[alt=ProjectTimeline] { width: 100%; }
 img[alt=logo] { width: 25%; }
 img[alt=Architecture] { width: 100%; }
-img[alt=Application] {width: 70%}
-img[alt=AboutUs] {width: 70%}
-img[alt=Poster] {width: 70%}
-img[alt=ResearchPaper] {width: 70%}
+img[alt=Application] {width: 85%; height:80%;}
+img[alt=AboutUs] {width: 85%; height:80%;}
+img[alt=Poster] {width: 85%; height: 80%;}
+img[alt=ResearchPaper] {width: 85%; height: 80%;}
 
