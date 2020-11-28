@@ -5,8 +5,7 @@ description: Initial project description
 sec: 1
 title: Poster
 ---
-![Poster](post/images_files/Poster.png){width=300px}
-
+![Poster](post/images_files/Poster.png)
 
 
 
