@@ -5,4 +5,4 @@ description: Initial project description
 sec: 1
 title: About Us
 ---
-![About Us](post/images_files/AboutUs.png)
+![AboutUs](post/images_files/AboutUs.png)
