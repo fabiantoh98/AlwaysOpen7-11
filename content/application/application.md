@@ -5,7 +5,4 @@ description: Initial project description
 sec: 1
 title: Application
 ---
-
-# We are currently working on our R Shiny application!
-
 ![Application](post/images_files/Application.JPG)
