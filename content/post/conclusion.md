@@ -16,10 +16,11 @@ title:
 
 # Data Sources
 
- Name                         | Sources
- -----------------------------|---------------------------------------------------------
-7-11 convenience stores       | https://www.319papago.idv.tw/lifeinfo/7-11/7-11-00.html 
-Population Density            | https://gis.ris.gov.tw/dashboard.html?key=B07 
-Other Taiwan open source data | https://data.gov.tw/ 
+ Name                                 | Sources
+ -------------------------------------|---------------------------------------------------------
+7-11 & Family Mart Convenience stores | https://www.319papago.idv.tw/lifeinfo/7-11/7-11-00.html 
+Population Density                    | https://gis.ris.gov.tw/dashboard.html?key=B07 
+Other Taiwan open source data         | https://data.gov.tw/ 
+
 
 
