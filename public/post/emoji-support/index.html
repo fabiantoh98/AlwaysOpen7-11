@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="
-		Initial project description
+		Some fun with emoji
 		"> 
     
 	<meta name="author" content=" Always Open 7-11 ">  
     <base href="https://alwaysopen7-11.netlify.app/">
-    <title>Application</title>
+    <title>Always Open 7-11</title>
 
     
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -239,8 +239,10 @@ img[alt=Architecture] { width: 100%; }
           <div>
             <hr class="section-heading-spacer">
             <div class="clearfix"></div>
-            <h2 class="section-heading">Application</h2>
-            <p><img src="post/images_files/Application.png" alt="Application"></p>
+            <h2 class="section-heading"></h2>
+            <h1 id="challenges-and-mitigation">Challenges and Mitigation</h1>
+<p>As 7-11 store location is not readily available in geospatial data format in their website. It is required to scrape data from 7-11 website and perform geocoding to get the latitude and longitude for the 7-Eleven location.</p>
+<p>Taiwan uses a different coordinate system as Singapore, and they have multiple projection system throughout the country. However, we will be only be using epsg:3828 where the bounding box cover the mainland of Taiwan without the islands surrounding it. Refers to (<a href="https://epsg.io/3828">https://epsg.io/3828</a>) to see the bounding box.</p>
 
         </div>
     </div>
